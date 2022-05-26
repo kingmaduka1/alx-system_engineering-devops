@@ -1,1 +1,1 @@
-My first directory delete
+Script that changes working directory
