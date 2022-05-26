@@ -1,1 +1,1 @@
-Display current directory content
+A script that creates a directory in the /tmp directory
