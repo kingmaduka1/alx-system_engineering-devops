@@ -1,1 +1,1 @@
-The script that changes user
+Changing a user
