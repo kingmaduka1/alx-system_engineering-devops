@@ -1,1 +1,1 @@
-The script that creates a directory
+The script that changes the group owner
