@@ -1,1 +1,1 @@
-The script that swutches current user
+The script that prints the effective username of the current user
