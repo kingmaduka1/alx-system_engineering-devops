@@ -1,1 +1,1 @@
-The script that prints the type of file iamafile
+The script that list all files in the current directory and the parent of the working directory
