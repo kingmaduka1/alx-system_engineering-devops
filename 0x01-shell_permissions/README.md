@@ -1,1 +1,1 @@
-Task 14 change owner and group
+This is task 12 for more directories
