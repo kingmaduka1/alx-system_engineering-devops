@@ -1,1 +1,1 @@
-A script that creates a new local variable
+This is task 7
