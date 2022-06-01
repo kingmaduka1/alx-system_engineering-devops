@@ -1,1 +1,1 @@
-A script that creates a new global variable
+A script that prints the resultof the addition of 128
