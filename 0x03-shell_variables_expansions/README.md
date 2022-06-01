@@ -1,1 +1,1 @@
-This is task 7
+A script that creates a new global variable
