@@ -1,1 +1,1 @@
-A script that prints the resultof the addition of 128
+A script that prints the result of POWER divided by DIVIDE
