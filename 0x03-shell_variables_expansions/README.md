@@ -1,1 +1,1 @@
-This code is for task 6
+A script that creates a new local variable
