@@ -1,1 +1,1 @@
-A shell script that creates a file
+A command that finds all empty files and directories
