@@ -1,1 +1,1 @@
-A script that prints every other line from the input, starting with the first line
+A script that creates a new global variable
